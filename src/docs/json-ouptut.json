@@ -1,0 +1,266 @@
+{
+  "values": [
+    {
+      "nr": 1,
+      "name": "T.Kollektor",
+      "normalizedName": "t_kollektor",
+      "value": 29.3,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 4,
+      "name": "T.Warmw.Puffer",
+      "normalizedName": "t_warmw_puffer",
+      "value": 40,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 5,
+      "name": "T.Puffer oben",
+      "normalizedName": "t_puffer_oben",
+      "value": 31.8,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 6,
+      "name": "T.Puffer unten",
+      "normalizedName": "t_puffer_unten",
+      "value": 24.5,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 10,
+      "name": "T.Heizkreis VL 1",
+      "normalizedName": "t_heizkreis_vl_1",
+      "value": 28.5,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 12,
+      "name": "T.Heizkreis VL 2",
+      "normalizedName": "t_heizkreis_vl_2",
+      "value": 25.1,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 16,
+      "name": "T.Außen",
+      "normalizedName": "t_aussen",
+      "value": 2,
+      "unit": "CELSIUS",
+      "pinType": "INPUT"
+    },
+    {
+      "nr": 1,
+      "name": "Solarpumpe",
+      "normalizedName": "solarpumpe",
+      "value": 0,
+      "unit": "NONE",
+      "state": 0,
+      "pinType": "OUTPUT",
+      "faddress": 33577032
+    },
+    {
+      "nr": 6,
+      "name": "Heizkreispumpe 1",
+      "normalizedName": "heizkreispumpe_1",
+      "value": 1,
+      "unit": "ON_OFF",
+      "pinType": "OUTPUT",
+      "faddress": 33904712
+    },
+    {
+      "nr": 7,
+      "name": "Heizkreispumpe 2",
+      "normalizedName": "heizkreispumpe_2",
+      "value": 1,
+      "unit": "ON_OFF",
+      "pinType": "OUTPUT",
+      "faddress": 33970248
+    },
+    {
+      "nr": 15,
+      "name": "0-10V Brenner",
+      "normalizedName": "0_10v_brenner",
+      "value": 3.92,
+      "unit": "VOLT",
+      "state": 1,
+      "pinType": "OUTPUT",
+      "faddress": 34494536
+    },
+    {
+      "nr": 1,
+      "name": "T.Kollektor",
+      "normalizedName": "t_kollektor",
+      "value": 29.4,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 2,
+      "name": "Solarpumpe",
+      "normalizedName": "solarpumpe",
+      "value": 0,
+      "unit": "NONE",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 3,
+      "name": "Anforderung Warmwasser Effektive Solltemperatur",
+      "normalizedName": "anforderung_warmwasser_effektive_solltemperatur",
+      "value": 5,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 4,
+      "name": "T.Warmw.Puffer",
+      "normalizedName": "t_warmw_puffer",
+      "value": 40,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 5,
+      "name": "T.Puffer oben",
+      "normalizedName": "t_puffer_oben",
+      "value": 31.8,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 6,
+      "name": "T.Puffer unten",
+      "normalizedName": "t_puffer_unten",
+      "value": 24.5,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 9,
+      "name": "Heizkreis 1 Vorlaufsolltemperatur",
+      "normalizedName": "heizkreis_1_vorlaufsolltemperatur",
+      "value": 30.3,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 10,
+      "name": "T.Heizkreis VL 1",
+      "normalizedName": "t_heizkreis_vl_1",
+      "value": 28.5,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 11,
+      "name": "Fußbodenheizung 2 Vorlaufsolltemperatur",
+      "normalizedName": "fussbodenheizung_2_vorlaufsolltemperatur",
+      "value": 26,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 12,
+      "name": "T.Heizkreis VL 2",
+      "normalizedName": "t_heizkreis_vl_2",
+      "value": 25.1,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 13,
+      "name": "Maximum Ergebnis",
+      "normalizedName": "maximum_ergebnis",
+      "value": 30.3,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 14,
+      "name": "Ueberhoehung Ergebnis",
+      "normalizedName": "ueberhoehung_ergebnis",
+      "value": 35.3,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 15,
+      "name": "0-10V Brenner",
+      "normalizedName": "0_10v_brenner",
+      "value": 3.92,
+      "unit": "VOLT",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 16,
+      "name": "T.Außen",
+      "normalizedName": "t_aussen",
+      "value": 2,
+      "unit": "CELSIUS",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 17,
+      "name": "Heizkreis 1 Mischer 0 - 100%",
+      "normalizedName": "heizkreis_1_mischer_0_100_",
+      "value": 76.2,
+      "unit": "PERCENT",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 18,
+      "name": "Fußbodenheizung 2 Mischer 0 - 100%",
+      "normalizedName": "fussbodenheizung_2_mischer_0_100_",
+      "value": 30.5,
+      "unit": "PERCENT",
+      "pinType": "CAN_LOG_ANALOG"
+    },
+    {
+      "nr": 1,
+      "name": "Solarpumpe",
+      "normalizedName": "solarpumpe",
+      "value": 0,
+      "unit": "ON_OFF",
+      "pinType": "CAN_LOG_DIGITAL"
+    },
+    {
+      "nr": 6,
+      "name": "Heizkreispumpe 1",
+      "normalizedName": "heizkreispumpe_1",
+      "value": 1,
+      "unit": "ON_OFF",
+      "pinType": "CAN_LOG_DIGITAL"
+    },
+    {
+      "nr": 7,
+      "name": "Heizkreispumpe 2",
+      "normalizedName": "heizkreispumpe_2",
+      "value": 1,
+      "unit": "ON_OFF",
+      "pinType": "CAN_LOG_DIGITAL"
+    },
+    {
+      "nr": 14,
+      "name": "Anforderung Heizung Anforderung",
+      "normalizedName": "anforderung_heizung_anforderung",
+      "value": 1,
+      "unit": "ON_OFF",
+      "pinType": "CAN_LOG_DIGITAL"
+    },
+    {
+      "nr": 15,
+      "name": "0-10V Brenner",
+      "normalizedName": "0_10v_brenner",
+      "value": 1,
+      "unit": "ON_OFF",
+      "pinType": "CAN_LOG_DIGITAL"
+    }
+  ]
+}

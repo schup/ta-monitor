@@ -1,0 +1,13 @@
+[Unit]
+Description=CMI Technische Alternative
+After=multi-user.target
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=java -Dlogback.configurationFile=logback-prod.xml -jar /home/pi/work/ta-monitor/build/libs/ta-monitor-0.3-all.jar
+User=pi
+WorkingDirectory=/home/pi/work/ta-monitor/build
+
+[Install]
+WantedBy=multi-user.target

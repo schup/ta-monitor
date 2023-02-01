@@ -1,0 +1,277 @@
+{
+  "Header": {
+    "Version": 6,
+    "Device": "87",
+    "Timestamp": 1669308204
+  },
+  "Data": {
+    "Inputs": [
+      {
+        "Number": 1,
+        "AD": "A",
+        "Value": {
+          "Value": 7.8,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 4,
+        "AD": "A",
+        "Value": {
+          "Value": 53.1,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 5,
+        "AD": "A",
+        "Value": {
+          "Value": 54.6,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 6,
+        "AD": "A",
+        "Value": {
+          "Value": 23.7,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 10,
+        "AD": "A",
+        "Value": {
+          "Value": 25.2,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 12,
+        "AD": "A",
+        "Value": {
+          "Value": 24.4,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 16,
+        "AD": "A",
+        "Value": {
+          "Value": 6.4,
+          "Unit": "1"
+        }
+      }
+    ],
+    "Outputs": [
+      {
+        "Number": 1,
+        "AD": "A",
+        "Value": {
+          "State": 0,
+          "Value": 0,
+          "Unit": "0"
+        }
+      },
+      {
+        "Number": 6,
+        "AD": "D",
+        "Value": {
+          "Value": 0,
+          "Unit": "43"
+        }
+      },
+      {
+        "Number": 7,
+        "AD": "D",
+        "Value": {
+          "Value": 0,
+          "Unit": "43"
+        }
+      },
+      {
+        "Number": 15,
+        "AD": "A",
+        "Value": {
+          "State": 1,
+          "Value": 7.22,
+          "Unit": "13"
+        }
+      }
+    ],
+    "Logging Analog": [
+      {
+        "Number": 1,
+        "AD": "A",
+        "Value": {
+          "Value": 7.8,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 2,
+        "AD": "A",
+        "Value": {
+          "Value": 0,
+          "Unit": "0"
+        }
+      },
+      {
+        "Number": 3,
+        "AD": "A",
+        "Value": {
+          "Value": 60.0,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 4,
+        "AD": "A",
+        "Value": {
+          "Value": 53.1,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 5,
+        "AD": "A",
+        "Value": {
+          "Value": 54.6,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 6,
+        "AD": "A",
+        "Value": {
+          "Value": 23.7,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 9,
+        "AD": "A",
+        "Value": {
+          "Value": 27.4,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 10,
+        "AD": "A",
+        "Value": {
+          "Value": 25.2,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 11,
+        "AD": "A",
+        "Value": {
+          "Value": 24.9,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 12,
+        "AD": "A",
+        "Value": {
+          "Value": 24.4,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 13,
+        "AD": "A",
+        "Value": {
+          "Value": 60.0,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 14,
+        "AD": "A",
+        "Value": {
+          "Value": 65.0,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 15,
+        "AD": "A",
+        "Value": {
+          "Value": 7.22,
+          "Unit": "13"
+        }
+      },
+      {
+        "Number": 16,
+        "AD": "A",
+        "Value": {
+          "Value": 6.4,
+          "Unit": "1"
+        }
+      },
+      {
+        "Number": 17,
+        "AD": "A",
+        "Value": {
+          "Value": 0.0,
+          "Unit": "8"
+        }
+      },
+      {
+        "Number": 18,
+        "AD": "A",
+        "Value": {
+          "Value": 0.0,
+          "Unit": "8"
+        }
+      }
+    ],
+    "Logging Digital": [
+      {
+        "Number": 1,
+        "AD": "D",
+        "Value": {
+          "Value": 0,
+          "Unit": "43"
+        }
+      },
+      {
+        "Number": 6,
+        "AD": "D",
+        "Value": {
+          "Value": 0,
+          "Unit": "43"
+        }
+      },
+      {
+        "Number": 7,
+        "AD": "D",
+        "Value": {
+          "Value": 0,
+          "Unit": "43"
+        }
+      },
+      {
+        "Number": 14,
+        "AD": "D",
+        "Value": {
+          "Value": 1,
+          "Unit": "43"
+        }
+      },
+      {
+        "Number": 15,
+        "AD": "D",
+        "Value": {
+          "Value": 1,
+          "Unit": "43"
+        }
+      }
+    ]
+  },
+  "Status": "OK",
+  "Status code": 0
+}

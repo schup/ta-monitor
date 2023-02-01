@@ -1,0 +1,73 @@
+<!--
+- http://cmi.local/INCLUDE/devpagex.cgi?pagex2=02045800
+- remove </div> at end
+- wrap in <outputs>
+-->
+<outputs>
+    <div class="HEADLINE">Ausgänge</div>
+    <div class="BOX BOX_OUT" fadresse="02005848">
+        <div class="bez">1: Solarpumpe</div>
+        <div class="val">
+            <div class="VALUE_C_MENU" adresse="10040da0287">Auto/EIN</div>
+            <div>29</div>
+        </div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">2: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">3: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">4: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">5: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT" fadresse="02055848">
+        <div class="bez">6: Heizkreispumpe 1</div>
+        <div class="val">
+            <div class="VALUE_C_MENU" adresse="10540da0287">Auto/EIN</div>
+        </div>
+    </div>
+    <div class="BOX BOX_OUT" fadresse="02065848">
+        <div class="bez">7: Heizkreispumpe 2</div>
+        <div class="val">
+            <div class="VALUE_C_MENU" adresse="10640da0287">Auto/EIN</div>
+        </div>
+    </div>
+    <div class="BOX BOX_OUT_MIX" fadresse="02075848">
+        <div class="bez">8: Mischer-Heizkreis 1</div>
+        <div class="val">
+            <div class="VALUE_C_MENU" adresse="10740da0287">Auto</div>
+            <div>OFF</div>
+        </div>
+    </div>
+    <div class="BOX BOX_OUT_MIX" fadresse="02095848">
+        <div class="bez">10: Mischer-Heizkreis 2</div>
+        <div class="val">
+            <div class="VALUE_C_MENU" adresse="10940da0287">Auto</div>
+            <div>OFF</div>
+        </div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">12: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">13: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">14: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_OUT" fadresse="020e5848">
+        <div class="bez">15: 0-10V Brenner</div>
+        <div class="val">
+            <div class="VALUE_C_MENU" adresse="10e40da0287">Auto</div>
+            <div>0.00 V</div>
+        </div>
+    </div>
+    <div class="BOX BOX_OUT">
+        <div class="bez">16: unbenutzt</div>
+    </div>
+
+</outputs>

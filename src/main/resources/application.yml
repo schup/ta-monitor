@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: taMonitor
+mqtt:
+  client:
+    client-id: ${random.uuid}
+    server-uri: tcp://mqtt.local
+    automatic-reconnect: true
+
+cmi:
+  url: http://cmi.local
+  user:
+  password:

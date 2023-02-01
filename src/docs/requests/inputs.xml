@@ -1,0 +1,77 @@
+<!--
+- http://cmi.local/INCLUDE/devpagex.cgi?pagex2=02025800
+- UTF-8
+- wrap with <inputs>
+-->
+<inputs>
+    <div class="HEADLINE">Eingänge</div>
+    <div class="BOX BOX_IN">
+        <div class="bez">1: T.Kollektor</div>
+        <div class="val">
+            <div>43.9 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">2: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">3: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">4: T.Warmw.Puffer</div>
+        <div class="val">
+            <div>39.6 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">5: T.Puffer oben</div>
+        <div class="val">
+            <div>33.5 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">6: T.Puffer unten</div>
+        <div class="val">
+            <div>27.5 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">7: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">8: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">9: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">10: T.Heizkreis VL 1</div>
+        <div class="val">
+            <div>29.6 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">11: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">12: T.Heizkreis VL 2</div>
+        <div class="val">
+            <div>28.2 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">13: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">14: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">15: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_IN">
+        <div class="bez">16: T.Außen</div>
+        <div class="val">
+            <div>0.5 °C</div>
+        </div>
+    </div>
+</inputs>

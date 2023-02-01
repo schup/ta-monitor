@@ -1,0 +1,215 @@
+<!--
+- http://cmi.local/INCLUDE/devpagex.cgi?pagex2=02005800
+- UTF-8
+- wrap with <can-digital>
+-->
+<can-digital>
+    <div class="HEADLINE">Datenlogging Digital</div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02005b04">
+        <div class="bez">1: Solarpumpe</div>
+        <div class="val">
+            <div>OFF</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02015b04">
+        <div class="bez">2: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02025b04">
+        <div class="bez">3: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02035b04">
+        <div class="bez">4: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02045b04">
+        <div class="bez">5: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02055b04">
+        <div class="bez">6: Heizkreispumpe 1</div>
+        <div class="val">
+            <div>OFF</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02065b04">
+        <div class="bez">7: Heizkreispumpe 2</div>
+        <div class="val">
+            <div>OFF</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02075b04">
+        <div class="bez">8: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02085b04">
+        <div class="bez">9: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02095b04">
+        <div class="bez">10: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020a5b04">
+        <div class="bez">11: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020b5b04">
+        <div class="bez">12: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020c5b04">
+        <div class="bez">13: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020d5b04">
+        <div class="bez">14: Anforderung Heizung Anforderung</div>
+        <div class="val">
+            <div>ON</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020e5b04">
+        <div class="bez">15: 0-10V Brenner</div>
+        <div class="val">
+            <div>ON</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020f5b04">
+        <div class="bez">16: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02105b04">
+        <div class="bez">17: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02115b04">
+        <div class="bez">18: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02125b04">
+        <div class="bez">19: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02135b04">
+        <div class="bez">20: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02145b04">
+        <div class="bez">21: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02155b04">
+        <div class="bez">22: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02165b04">
+        <div class="bez">23: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02175b04">
+        <div class="bez">24: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02185b04">
+        <div class="bez">25: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02195b04">
+        <div class="bez">26: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021a5b04">
+        <div class="bez">27: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021b5b04">
+        <div class="bez">28: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021c5b04">
+        <div class="bez">29: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021d5b04">
+        <div class="bez">30: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021e5b04">
+        <div class="bez">31: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021f5b04">
+        <div class="bez">32: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02205b04">
+        <div class="bez">33: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02215b04">
+        <div class="bez">34: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02225b04">
+        <div class="bez">35: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02235b04">
+        <div class="bez">36: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02245b04">
+        <div class="bez">37: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02255b04">
+        <div class="bez">38: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02265b04">
+        <div class="bez">39: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02275b04">
+        <div class="bez">40: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02285b04">
+        <div class="bez">41: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02295b04">
+        <div class="bez">42: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022a5b04">
+        <div class="bez">43: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022b5b04">
+        <div class="bez">44: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022c5b04">
+        <div class="bez">45: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022d5b04">
+        <div class="bez">46: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022e5b04">
+        <div class="bez">47: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022f5b04">
+        <div class="bez">48: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02305b04">
+        <div class="bez">49: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02315b04">
+        <div class="bez">50: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02325b04">
+        <div class="bez">51: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02335b04">
+        <div class="bez">52: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02345b04">
+        <div class="bez">53: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02355b04">
+        <div class="bez">54: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02365b04">
+        <div class="bez">55: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02375b04">
+        <div class="bez">56: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02385b04">
+        <div class="bez">57: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02395b04">
+        <div class="bez">58: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023a5b04">
+        <div class="bez">59: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023b5b04">
+        <div class="bez">60: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023c5b04">
+        <div class="bez">61: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023d5b04">
+        <div class="bez">62: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023e5b04">
+        <div class="bez">63: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023f5b04">
+        <div class="bez">64: unbenutzt</div>
+    </div>
+</can-digital>

@@ -1,0 +1,62 @@
+= CMI Monitor
+
+This program monitors a C.M.I. (Control and Monitoring Interface) of Technische Alternative and provides the values over http and optionally sends to a MQTT broker.
+
+== Build
+
+This project requires Java 11 (min) and you can build it executing the following command:
+
+[source,console]
+----
+./gradlew build -x test
+----
+
+== Architecture
+
+The program was designed to run as a standalone service on a Raspberry Pi but has no actual dependency on a particular OS.
+
+It scrapes the C.M.I. Web Interface to get the information of the configured input/outputs and logging data.
+This step is only used to get the naming and units.
+
+The actual data is queried every minute (max frequency to get data from the C.M.I.) trough the JSON API.
+
+See https://www.ta.co.at/download/datei/17511763-cmi-json-api/ for details.
+
+== Configuration
+
+Example:
+[source,console]
+
+----
+micronaut:
+  application:
+    name: cmiMonitor
+mqtt:
+  client:
+    client-id: ${random.uuid}
+    server-uri: tcp://mqtt.local:1883
+    automatic-reconnect: true
+
+cmi:
+    url: http://cmi.local
+    user: <cmiuser>
+    password: <cmipassword>
+    mqtt-topic: cmi/sensors/sensor/
+----
+
+The configuration can also be provided through environment variables.
+This can be used for systemd services on Linux.
+
+A service example can be found in systemd/cmi.service
+
+[source,console]
+----
+systemctl edit cmi
+----
+
+[source,console]
+----
+[Service]
+Environment CMI_USER=...
+Environment MQTT_CLIENT_SERVER_URI=tcp://mqtt.local:1883
+----

@@ -1,0 +1,248 @@
+<!--
+- http://cmi.local/INCLUDE/devpagex.cgi?pagex2=02255800
+- UTF-8
+- wrap with <can-analog>
+-->
+<can-analog>
+    <div class="HEADLINE">Datenlogging Analog</div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02005ac4">
+        <div class="bez">1: T.Kollektor</div>
+        <div class="val">
+            <div>10.8 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02015ac4">
+        <div class="bez">2: Solarpumpe</div>
+        <div class="val">
+            <div>0</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02025ac4">
+        <div class="bez">3: Anforderung Warmwasser Effektive Solltemperatur</div>
+        <div class="val">
+            <div>60.0 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02035ac4">
+        <div class="bez">4: T.Warmw.Puffer</div>
+        <div class="val">
+            <div>37.6 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02045ac4">
+        <div class="bez">5: T.Puffer oben</div>
+        <div class="val">
+            <div>29.3 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02055ac4">
+        <div class="bez">6: T.Puffer unten</div>
+        <div class="val">
+            <div>23.6 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02065ac4">
+        <div class="bez">7: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02075ac4">
+        <div class="bez">8: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02085ac4">
+        <div class="bez">9: Heizkreis 1 Vorlaufsolltemperatur</div>
+        <div class="val">
+            <div>26.9 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02095ac4">
+        <div class="bez">10: T.Heizkreis VL 1</div>
+        <div class="val">
+            <div>28.5 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020a5ac4">
+        <div class="bez">11: Fußbodenheizung 2 Vorlaufsolltemperatur</div>
+        <div class="val">
+            <div>24.6 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020b5ac4">
+        <div class="bez">12: T.Heizkreis VL 2</div>
+        <div class="val">
+            <div>23.8 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020c5ac4">
+        <div class="bez">13: Maximum Ergebnis</div>
+        <div class="val">
+            <div>60.0 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020d5ac4">
+        <div class="bez">14: Ueberhoehung Ergebnis</div>
+        <div class="val">
+            <div>65.0 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020e5ac4">
+        <div class="bez">15: 0-10V Brenner</div>
+        <div class="val">
+            <div>7.22 V</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="020f5ac4">
+        <div class="bez">16: T.Außen</div>
+        <div class="val">
+            <div>6.9 °C</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02105ac4">
+        <div class="bez">17: Heizkreis 1 Mischer 0 - 100%</div>
+        <div class="val">
+            <div>43.0 %</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02115ac4">
+        <div class="bez">18: Fußbodenheizung 2 Mischer 0 - 100%</div>
+        <div class="val">
+            <div>17.6 %</div>
+        </div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02125ac4">
+        <div class="bez">19: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02135ac4">
+        <div class="bez">20: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02145ac4">
+        <div class="bez">21: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02155ac4">
+        <div class="bez">22: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02165ac4">
+        <div class="bez">23: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02175ac4">
+        <div class="bez">24: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02185ac4">
+        <div class="bez">25: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02195ac4">
+        <div class="bez">26: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021a5ac4">
+        <div class="bez">27: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021b5ac4">
+        <div class="bez">28: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021c5ac4">
+        <div class="bez">29: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021d5ac4">
+        <div class="bez">30: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021e5ac4">
+        <div class="bez">31: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="021f5ac4">
+        <div class="bez">32: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02205ac4">
+        <div class="bez">33: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02215ac4">
+        <div class="bez">34: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02225ac4">
+        <div class="bez">35: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02235ac4">
+        <div class="bez">36: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02245ac4">
+        <div class="bez">37: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02255ac4">
+        <div class="bez">38: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02265ac4">
+        <div class="bez">39: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02275ac4">
+        <div class="bez">40: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02285ac4">
+        <div class="bez">41: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02295ac4">
+        <div class="bez">42: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022a5ac4">
+        <div class="bez">43: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022b5ac4">
+        <div class="bez">44: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022c5ac4">
+        <div class="bez">45: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022d5ac4">
+        <div class="bez">46: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022e5ac4">
+        <div class="bez">47: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="022f5ac4">
+        <div class="bez">48: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02305ac4">
+        <div class="bez">49: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02315ac4">
+        <div class="bez">50: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02325ac4">
+        <div class="bez">51: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02335ac4">
+        <div class="bez">52: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02345ac4">
+        <div class="bez">53: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02355ac4">
+        <div class="bez">54: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02365ac4">
+        <div class="bez">55: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02375ac4">
+        <div class="bez">56: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02385ac4">
+        <div class="bez">57: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="02395ac4">
+        <div class="bez">58: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023a5ac4">
+        <div class="bez">59: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023b5ac4">
+        <div class="bez">60: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023c5ac4">
+        <div class="bez">61: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023d5ac4">
+        <div class="bez">62: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023e5ac4">
+        <div class="bez">63: unbenutzt</div>
+    </div>
+    <div class="BOX BOX_BUS_OUT" fadresse="023f5ac4">
+        <div class="bez">64: unbenutzt</div>
+    </div>
+</can-analog>
